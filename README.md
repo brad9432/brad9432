@@ -3,7 +3,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: C++, C#, Python, JS  
-- **Backend**: .NET Core, ProudNet, Nodejs
+- **Backend**: IOCP, .NET Core, ProudNet, Nodejs
 - **Databases**: MS SQL, MySQL, Redis  
 - **Networking**: TCP/IP, UDP, HTTP  
 - **Automation**: Slack Bot (Slack Bolt), Selenium  
