@@ -1,27 +1,34 @@
 ## 👋 Hi there, I'm [Your Name]!
-🚀 Software Developer | ⚾ Baseball Game Dev | 🤖 Slack Bot Enthusiast | 🏗️ .NET Core & Kusto  
+🚀 Software Developer | ⚾ Baseball Game Server Dev | 🤖 Slack Bot Enthusiast | 🏗️ .NET Core & Kusto  
 
 ### 🛠️ Tech Stack
-- **Languages**: C#, JavaScript, Python  
-- **Backend**: .NET Core, Kusto Query Language (KQL)  
-- **Game Dev**: Unity (C#), Phaser.js  
+- **Languages**: C++, C#, Python, JS  
+- **Backend**: .NET Core, Kusto Query Language (KQL), ProudNet, Nodejs
+- **Databases**: MS SQL, MySQL, Redis  
+- **Networking**: TCP/IP, UDP  
 - **Automation**: Slack Bot (Slack Bolt), Selenium  
-- **Cloud**: Azure, AWS  
+- **Cloud**: Azure, AWS, GCP  
 
+### 🏆 Career & Projects
+- **⚾ 마구마구 PC** (Netmarble) - 온라인 야구 게임 개발
+- **⚾ 마구마구 PC 리마스터** (Netmarble) - 온라인 야구 게임 개발  
+- **⚾ 마구마구 2020** (Netmarble) - 모바일 야구 게임 개발
+- **🚴‍♂️ Coway 홈트레이닝 프로젝트 
+- **🎲 모두의마블2
+  
 ### 🌱 Currently Working On  
-- ⚾ **Baseball Game Development**: A simulation game that starts at **9th inning, 2 outs, full count**  
+- ⚾ **Fantastic BaseBall** (WeMade): - 모바일 야구게임 개발
+  
+## 🚀 Toy Projects  
 - 🤖 **Slack GPT Bot**: Enhancing chatbot capabilities for **1:1 messaging & group chats**  
 - 📈 **Kusto & Data Analytics**: Exploring data visualization and query optimizations  
+- 🔍 **RAG (Retrieval-Augmented Generation)**: Improving LLM responses by integrating **retrieval-based context**  
+- 🔄 **n8n Automation**: Building workflow automation and integrations with **custom nodes**  
 
+ 
 ### 📫 How to Reach Me  
-📧 Email: your.email@example.com  
-💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [your-website.com](https://your-website.com)  
+📧 Email: brad9432@nate.com, brad94322@gmail.com
 
-### 🏆 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=radical)  
 
----
 
 🔥 Passionate about building useful applications and automating workflows! Let's connect!  
