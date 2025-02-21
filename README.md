@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm 금경호!
+## 👋 Hi there, I'm kyoung-ho kum!
 🚀 Software Developer | ⚾ Baseball Game Server Dev | 🤖 Slack Bot Enthusiast | 🏗️ .NET Core & Kusto  
 
 ### 🛠️ Tech Stack
@@ -10,15 +10,15 @@
 - **Cloud**: Azure, AWS, GCP  
 
 ### 🏆 Career & Projects
-- **⚾ 마구마구 PC** (Netmarble) - 온라인 실시간 야구 게임 개발
-- **⚾ 마구감독이 되자** (Netmarble) - 온라인 시뮬레이션 야구 게임 개발  
-- **⚾ 마구마구 PC 리마스터** (Netmarble) - 온라인 야구 게임 리마스터
-- **⚾ 마구마구 2020** (Netmarble) - 모바일 야구 게임 개발
-- **🚴‍♂️ Coway 홈트레이닝 프로젝트** - 온라인 홈트레이닝 프로젝트
-- **🎲 모두의마블2** - NFT Project
+- **⚾ magumagu PC(aka 마구마구)** (Netmarble) - online realtime baseball game develop
+- **⚾ magu manager(aka 마구감독이 되자)** (Netmarble) - online simulation baseball game develop
+- **⚾ magumagu PC remaster** (Netmarble) - rematered oneline baseball game 
+- **⚾ magumagu 2020** (Netmarble) - mobile baseball game develop
+- **🚴‍♂️ Coway 홈트레이닝 프로젝트**(Coway & Netmarble) - online home training project
+- **🎲 모두의마블2** (Netmarble)- NFT Project
   
 ### 🌱 Currently Working On  
-- ⚾ **Fantastic BaseBall** (WeMade): - 모바일 야구게임 개발
+- ⚾ **Fantastic BaseBall** (WeMade): - mobile baseball game develop
   
 ## 🚀 Toy Projects  
 - 🤖 **Slack GPT Bot**: Enhancing chatbot capabilities for **1:1 messaging & group chats**  
