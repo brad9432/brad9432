@@ -14,8 +14,8 @@
 - **⚾ 마구감독이 되자** (Netmarble) - 온라인 시뮬레이션 야구 게임 개발  
 - **⚾ 마구마구 PC 리마스터** (Netmarble) - 온라인 야구 게임 리마스터
 - **⚾ 마구마구 2020** (Netmarble) - 모바일 야구 게임 개발
-- **🚴‍♂️ Coway 홈트레이닝 프로젝트** - 홈트레이닝 프로젝트
-- **🎲 모두의마블2** -NFT Project
+- **🚴‍♂️ Coway 홈트레이닝 프로젝트** - 온라인 홈트레이닝 프로젝트
+- **🎲 모두의마블2** - NFT Project
   
 ### 🌱 Currently Working On  
 - ⚾ **Fantastic BaseBall** (WeMade): - 모바일 야구게임 개발
