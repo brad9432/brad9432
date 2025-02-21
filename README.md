@@ -3,15 +3,16 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: C++, C#, Python, JS  
-- **Backend**: .NET Core, Kusto Query Language (KQL), ProudNet, Nodejs
+- **Backend**: .NET Core, ProudNet, Nodejs
 - **Databases**: MS SQL, MySQL, Redis  
 - **Networking**: TCP/IP, UDP, HTTP  
 - **Automation**: Slack Bot (Slack Bolt), Selenium  
 - **Cloud**: Azure, AWS, GCP  
 
 ### 🏆 Career & Projects
-- **⚾ 마구마구 PC** (Netmarble) - 온라인 야구 게임 개발
-- **⚾ 마구마구 PC 리마스터** (Netmarble) - 온라인 야구 게임 개발  
+- **⚾ 마구마구 PC** (Netmarble) - 온라인 실시간 야구 게임 개발
+- **⚾ 마구감독이 되자** (Netmarble) - 온라인 시뮬레이션 야구 게임 개발  
+- **⚾ 마구마구 PC 리마스터** (Netmarble) - 온라인 야구 게임 리마스터
 - **⚾ 마구마구 2020** (Netmarble) - 모바일 야구 게임 개발
 - **🚴‍♂️ Coway 홈트레이닝 프로젝트** - 홈트레이닝 프로젝트
 - **🎲 모두의마블2** -NFT Project
