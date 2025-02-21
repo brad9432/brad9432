@@ -11,7 +11,7 @@
 
 ### 🏆 Career & Projects
 - **⚾ magumagu PC(aka 마구마구)** (Netmarble) - online realtime baseball game develop
-- **⚾ magu manager(aka 마구감독이 되자)** (Netmarble) - online simulation baseball game develop
+- **⚾ magu:manager(aka 마구감독이 되자)** (Netmarble) - online simulation baseball game develop
 - **⚾ magumagu PC remaster** (Netmarble) - rematered oneline baseball game 
 - **⚾ magumagu 2020** (Netmarble) - mobile baseball game develop
 - **🚴‍♂️ Coway 홈트레이닝 프로젝트**(Coway & Netmarble) - online home training project
