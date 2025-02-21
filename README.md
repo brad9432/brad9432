@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm [Your Name]!
+## 👋 Hi there, I'm 금경호!
 🚀 Software Developer | ⚾ Baseball Game Server Dev | 🤖 Slack Bot Enthusiast | 🏗️ .NET Core & Kusto  
 
 ### 🛠️ Tech Stack
