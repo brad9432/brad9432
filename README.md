@@ -22,9 +22,10 @@
   
 ## 🚀 Toy Projects  
 - 🤖 **Slack GPT Bot**: Enhancing chatbot capabilities for **1:1 messaging & group chats**  
-- 📈 **Kusto & Data Analytics**: Exploring data visualization and query optimizations  
+- 📈 **Data Analytics**: Exploring data visualization and query optimizations  
 - 🔍 **RAG (Retrieval-Augmented Generation)**: Improving LLM responses by integrating **retrieval-based context**  
-- 🔄 **n8n Automation**: Building workflow automation and integrations with **custom nodes**  
+- 🔄 **n8n Automation**: Building workflow automation and integrations with **custom nodes**
+- 🕸️ **Web Crawling**: Baseball Record Data
 
  
 ### 📫 How to Reach Me  
