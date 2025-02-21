@@ -5,7 +5,7 @@
 - **Languages**: C++, C#, Python, JS  
 - **Backend**: .NET Core, Kusto Query Language (KQL), ProudNet, Nodejs
 - **Databases**: MS SQL, MySQL, Redis  
-- **Networking**: TCP/IP, UDP  
+- **Networking**: TCP/IP, UDP, HTTP  
 - **Automation**: Slack Bot (Slack Bolt), Selenium  
 - **Cloud**: Azure, AWS, GCP  
 
