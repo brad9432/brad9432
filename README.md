@@ -10,20 +10,20 @@
 - **Cloud**: Azure, AWS, GCP  
 
 ### 🏆 Career & Projects
-- **⚾ magumagu PC(AKA. 마구마구)** (Netmarble) - online realtime baseball game develop
-- **⚾ magu:manager(AKA. 마구감독이 되자)** (Netmarble) - online simulation baseball game develop
-- **⚾ magumagu PC remaster** (Netmarble) - rematered oneline baseball game 
-- **⚾ magumagu 2020** (Netmarble) - mobile baseball game develop
-- **🚴‍♂️ Coway Fit Project**(Coway & Netmarble) - online home workout project
-- **🎲 Modoo Marble2 (AKA. 모두의마블2)** (Netmarble)- NFT Project
+- **⚾ magumagu PC(AKA. 마구마구)** (Netmarble & AniPark) - online realtime baseball game develop
+- **⚾ magu:manager(AKA. 마구감독이 되자)** (Netmarble & AniPark) - online simulation baseball game develop
+- **⚾ magumagu PC remaster** (Netmarble & nPark) - rematered oneline baseball game 
+- **⚾ magumagu 2020** (Netmarble & nPark) - mobile baseball game develop
+- **🚴‍♂️ Coway Fit Project**(Coway & Netmarble & N2) - online home workout project
+- **🎲 Modoo Marble2 (AKA. 모두의마블2)** (Netmarble & N2)- NFT Project
   
 ### 🌱 Currently Working On  
-- ⚾ **Fantastic BaseBall** (WeMade): - mobile baseball game develop
+- ⚾ **Fantastic BaseBall** (WeMade & Round1): - mobile baseball game develop
   
 ## 🚀 Toy Projects  
-- 🤖 **Slack GPT Bot**: Enhancing chatbot capabilities for **1:1 messaging & group chats**  
+- 🔍 **RAG (Retrieval-Augmented Generation)**: Improving LLM responses by integrating **retrieval-based context**
 - 📈 **Data Analytics**: Exploring data visualization and query optimizations  
-- 🔍 **RAG (Retrieval-Augmented Generation)**: Improving LLM responses by integrating **retrieval-based context**  
+- 🤖 **Slack GPT Bot**: Enhancing chatbot capabilities for **1:1 messaging & group chats**  
 - 🔄 **n8n Automation**: Building workflow automation and integrations with **custom nodes**
 - 🕸️ **Web Crawling**: Baseball Record Data
 
