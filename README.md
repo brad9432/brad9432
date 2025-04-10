@@ -14,7 +14,7 @@
 - **⚾ magu:manager(AKA. 마구감독이 되자)** (Netmarble) - online simulation baseball game develop
 - **⚾ magumagu PC remaster** (Netmarble) - rematered oneline baseball game 
 - **⚾ magumagu 2020** (Netmarble) - mobile baseball game develop
-- **🚴‍♂️ Coway Hometraining Project**(Coway & Netmarble) - online home training project
+- **🚴‍♂️ Coway Fit Project**(Coway & Netmarble) - online home training project
 - **🎲 Modoo Marble2 (AKA. 모두의마블2)** (Netmarble)- NFT Project
   
 ### 🌱 Currently Working On  
