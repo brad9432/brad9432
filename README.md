@@ -16,11 +16,12 @@
 - **⚾ magumagu 2020** (Netmarble & nPark) - mobile baseball game develop
 - **🚴‍♂️ Coway Fit Project**(Coway & Netmarble & N2) - online home workout project
 - **🎲 Modoo Marble2 (AKA. 모두의마블2)** (Netmarble & N2)- NFT Project
-  
+- **⚾ Fantastic BaseBall** (WeMade & Round1): - mobile baseball game develop
+- 
 ### 🌱 Currently Working On  
-- ⚾ **Fantastic BaseBall** (WeMade & Round1): - mobile baseball game develop
+- **Project India** (Krafton & Round6): - mobile game develop
   
-## 🚀 Toy Projects  
+## 🚀 Side Projects  
 - 🔍 **RAG (Retrieval-Augmented Generation)**: Improving LLM responses by integrating **retrieval-based context**
 - 📈 **Data Analytics**: Exploring data visualization and query optimizations  
 - 🤖 **Slack GPT Bot**: Enhancing chatbot capabilities for **1:1 messaging & group chats**  
