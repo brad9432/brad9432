@@ -12,7 +12,7 @@
 ### 🏆 Career & Projects
 - **⚾ magumagu PC(AKA. 마구마구)** (Netmarble & AniPark) - online realtime baseball game develop
 - **⚾ magu:manager(AKA. 마구감독이 되자)** (Netmarble & AniPark) - online simulation baseball game develop
-- **⚾ magumagu PC remaster** (Netmarble & nPark) - rematered oneline baseball game 
+- **⚾ magumagu PC Remaster** (Netmarble & nPark) - rematered oneline baseball game 
 - **⚾ magumagu 2020** (Netmarble & nPark) - mobile baseball game develop
 - **🚴‍♂️ Coway Fit Project**(Coway & Netmarble & N2) - online home workout project
 - **🎲 Modoo Marble2 (AKA. 모두의마블2)** (Netmarble & N2)- NFT Project
