@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm kyoung-ho kum!
-🚀 Software Developer | ⚾ Baseball Game Server Dev | 🤖 Slack Bot Enthusiast | 🏗️ .NET Core & Kusto  
+🚀 GameServer Developer | ⚾ Baseball Game Dev | 🤖 AI Dev
 
 ### 🛠️ Tech Stack
 - **Languages**: C++, C#, Python, JS  
