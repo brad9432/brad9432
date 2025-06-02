@@ -19,7 +19,7 @@
 - **⚾ Fantastic BaseBall** (WeMade & Round1)(Lead Server Programmer) - mobile baseball game develop
   
 ### 🌱 Currently Working On  
-- **Project India** (Krafton & Round6)(Lead Server Programmer) - mobile game develop
+- **🇮🇳 Project India** (Krafton & Round6)(Lead Server Programmer) - mobile game develop
   
 ## 🚀 Side Projects  
 - 🔍 **RAG (Retrieval-Augmented Generation)**: Improving LLM responses by integrating **retrieval-based context**
