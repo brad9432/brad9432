@@ -10,16 +10,16 @@
 - **Cloud**: Azure, AWS, GCP  
 
 ### 🏆 Career & Projects
-- **⚾ magumagu PC(AKA. 마구마구)** (Netmarble & AniPark) - online realtime baseball game develop
-- **⚾ magu:manager(AKA. 마구감독이 되자)** (Netmarble & AniPark) - online simulation baseball game develop
-- **⚾ magumagu PC Remaster** (Netmarble & nPark) - rematered oneline baseball game 
-- **⚾ magumagu 2020** (Netmarble & nPark) - mobile baseball game develop
-- **🚴‍♂️ Coway Fit Project**(Coway & Netmarble & N2) - online home workout project
-- **🎲 Modoo Marble2 (AKA. 모두의마블2)** (Netmarble & N2)- NFT Project
-- **⚾ Fantastic BaseBall** (WeMade & Round1): - mobile baseball game develop
+- **⚾ magumagu PC(AKA. 마구마구)** (Netmarble & AniPark)(Lead Server Programmer) - online realtime baseball game develop 
+- **⚾ magu:manager(AKA. 마구감독이 되자)** (Netmarble & AniPark)(Lead Server Programmer) - online simulation baseball game develop
+- **⚾ magumagu PC Remaster** (Netmarble & nPark) (Lead Server Programmer)- rematered oneline baseball game 
+- **⚾ magumagu 2020** (Netmarble & nPark) (Lead Server Programmer)- mobile baseball game develop
+- **🚴‍♂️ Coway Fit Project**(Coway & Netmarble & N2) (Lead Server Programmer)- online home workout project
+- **🎲 Modoo Marble2 (AKA. 모두의마블2)** (Netmarble & N2)(Server Programmer)- NFT Project
+- **⚾ Fantastic BaseBall** (WeMade & Round1)(Lead Server Programmer) - mobile baseball game develop
   
 ### 🌱 Currently Working On  
-- **Project India** (Krafton & Round6): - mobile game develop
+- **Project India** (Krafton & Round6)(Lead Server Programmer) - mobile game develop
   
 ## 🚀 Side Projects  
 - 🔍 **RAG (Retrieval-Augmented Generation)**: Improving LLM responses by integrating **retrieval-based context**
