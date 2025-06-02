@@ -32,6 +32,3 @@
 ### 📫 How to Reach Me  
 📧 Email: brad9432@nate.com, brad94322@gmail.com
 
-
-
-🔥 Passionate about building useful applications and automating workflows! Let's connect!  
