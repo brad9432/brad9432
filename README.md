@@ -10,11 +10,11 @@
 - **Cloud**: Azure, AWS, GCP  
 
 ### 🏆 Career & Projects
-- **⚾ magumagu PC(AKA. 마구마구)** (Netmarble & AniPark)(Lead Server Programmer) - online realtime baseball game develop 
-- **⚾ magu:manager(AKA. 마구감독이 되자)** (Netmarble & AniPark)(Lead Server Programmer) - online simulation baseball game develop
-- **⚾ magumagu PC Remaster** (Netmarble & nPark) (Lead Server Programmer)- rematered oneline baseball game 
-- **⚾ magumagu 2020** (Netmarble & nPark) (Lead Server Programmer)- mobile baseball game develop
-- **🚴‍♂️ Coway Fit Project**(Coway & Netmarble & N2) (Lead Server Programmer)- online home workout project
+- **⚾ Magumagu PC(AKA. 마구마구)** (Netmarble & AniPark)(Lead Server Programmer) - online realtime baseball game develop 
+- **⚾ Magu:manager(AKA. 마구감독이 되자)** (Netmarble & AniPark)(Lead Server Programmer) - online simulation baseball game develop
+- **⚾ Magumagu PC Remaster** (Netmarble & nPark) (Lead Server Programmer)- rematered oneline baseball game 
+- **⚾ Magumagu 2020** (Netmarble & nPark) (Lead Server Programmer)- mobile baseball game develop
+- **🚴‍♂️ Coway Fit Project**(Coway & N2) (Lead Server Programmer)- online home workout project
 - **🎲 Modoo Marble2 (AKA. 모두의마블2)** (Netmarble & N2)(Server Programmer)- NFT Project
 - **⚾ Fantastic BaseBall** (WeMade & Round1)(Lead Server Programmer) - mobile baseball game develop
   
