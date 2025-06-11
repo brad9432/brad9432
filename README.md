@@ -6,7 +6,6 @@
 - **Backend**: IOCP, .NET Core, ProudNet, Nodejs
 - **Databases**: MS SQL, MySQL, Redis  
 - **Networking**: TCP/IP, UDP, HTTP  
-- **Automation**: Slack Bot (Slack Bolt), Selenium , N8N 
 - **Cloud**: Azure, AWS, GCP  
 
 ### 🏆 Career & Projects
